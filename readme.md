@@ -2,6 +2,7 @@
 link : https://github.com/gabrielvf1/PacMan/ 
 --- 
 Antonio Andraues
+---
 Gabriel V. Francato
 ---
 # Features:
