@@ -1,5 +1,5 @@
 # PacMan
-link : https://github.com/gabrielvf1/PacMan/ 
+link : https://gabrielvf1.github.io/PacMan/
 --- 
 Antonio Andraues
 ---
